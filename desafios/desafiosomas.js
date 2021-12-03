@@ -18,3 +18,4 @@ function divisao(num1, num2) {
 }
 
 console.log( "soma" , numero1, "+", numero2)
+console.log( "subtração" , numero1, "+", numero2)
