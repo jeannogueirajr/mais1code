@@ -23,3 +23,5 @@ console.log(executaOperacao(num1, num2, soma));
 console.log(executaOperacao(num1, num2, multiplicacao)); 
 console.log(executaOperacao(num1, num2, divisao));
 console.log(executaOperacao(num1, num2, subtracao));
+
+// Esse exercicio ficou 50% certo
