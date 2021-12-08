@@ -11,7 +11,6 @@
 // dar um console.log no x1 e no x2 que for cvalculado pela função de vcs
 
 
-// 
 
 
 function eqsegundoGrau(a,b,c) {
