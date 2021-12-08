@@ -1,7 +1,7 @@
 // comandos github
 
 // git commit -m "mensagem" -> salva as alterações feitas pros arquivos que estiverem em "staged"
-// git push -> envia os commits que você fez no seu computador para o github
+// git push -> envia os commits que você fez no seu computador para o github.
 // git pull -> você puxa as atualizações do github caso tenha (ele só puxa as atualizações da sua branch)
 // o que é branch? é um clone do repositório original que você pode mexer a vontade e depois pode misturar com o repositório original as mudanças que você fez na sua branch
 // o que é merge? merge é quando você tenta passar as atualizações da sua branch para outra (merge - mistura)
