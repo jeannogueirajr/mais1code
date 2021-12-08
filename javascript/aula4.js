@@ -8,4 +8,4 @@
 // o que é repositório? são um conjunto de arquivo que você queira guardar versões dele
 // o que é pull request? quando você quer fazer um merge, você precisa de autorização de alguém para aceitar essas mudanças e essa requisição de autorização chama pull request
 // o que é git? é uma ferramenta q cria um repsitório e vai atualizando suas versões para vc
-// o que é o github? é um lugar em que vc pode jogar seus arquivos em um repositório online que pode ser acessado em outros dispositivos ou por outras pessoas e já tem a ferramenta git embutida
+// o que é o github? é um lugar em que vc pode jogar seus arquivos em um repositório online que pode ser acessado em outros dispositivos ou por outras pessoas e já tem a ferramenta git embutida.
